@@ -4,6 +4,20 @@
 
 NOTE: I dont understand github mark up language yet. so I apologize if its ugly until I can fix it
 
+Python 3.10.11 Results - Primes up to number below: 
+  10,000: 0.13066s
+  20,000: 0.34710s
+  30,000: 0.73145s
+  40,000: 1.20252s
+  50,000: 1.78962s
+  100,000: 6.25575s
+  200,000: 22.15655s
+  300,000: 45.96408s
+  400,000: 77.85181s
+  500,000: 117.88279s
+  1,000,000 - 420.26595s
+
+
 Table of Arbitray Things:
 1. Generate a ton of prime numbers with python
 2. See how long it takes
