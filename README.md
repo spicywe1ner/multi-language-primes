@@ -1,7 +1,8 @@
 # multi-language-primes
 
-**** A WORK IN PROGRESS ****
-**** WILL REMOVE WHEN YOUTUBE VIDEO IS DONE ****
+**** A WORK IN PROGRESS - WILL REMOVE WHEN YOUTUBE VIDEO IS DONE ****
+
+NOTE: I dont understand github mark up language yet. so I apologize if its ugly until I can fix it
 
 Table of Arbitray Things:
 1. Generate a ton of prime numbers with python
