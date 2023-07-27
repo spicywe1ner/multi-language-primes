@@ -10,12 +10,15 @@ Python 3.10.11 Results - Primes up to number below:
   - 30,000: 0.73145s
   - 40,000: 1.20252s
   - 50,000: 1.78962s
+  - 60,000:
+  - 70,000:
+  - 80,000:
+  - 90,000:
   - 100,000: 6.25575s
   - 200,000: 22.15655s
   - 300,000: 45.96408s
   - 400,000: 77.85181s
   - 500,000: 117.88279s
-  - 1,000,000: 420.26595s
 
 
 Table of Arbitray Things:
@@ -68,6 +71,8 @@ Table of Arbitray Things:
     - OCAML (People like it)
     - Haskell (Need to grow out neckbeard)
     - Java (CS 101, in the early 2000s OOF) 
+    - COBOL 
+    - FORTRAN - I'm probably underestimating this
 
   I'm missing a few im sure, up for suggestions, or would like to contribute? As I complete the tasks, if you can do better, I would love to see it. Learning by collaboration.  I'm sure a lot of the readers will be able to EASILY do this, and grossly out perform my code.
 
