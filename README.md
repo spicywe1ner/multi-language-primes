@@ -2,7 +2,8 @@
 
 **** A WORK IN PROGRESS - WILL REMOVE WHEN YOUTUBE VIDEO IS DONE ****
 
-NOTE: I dont understand github mark up language yet. so I apologize if its ugly until I can fix it
+NOTE: I dont understand github mark up language yet. so I apologize if its ugly until I can fix it. 
+NOTE2: I looked at someone elses comparison example for this, and holy S!#$T I am really a newbie. 
 
 Python 3.10.11 Results - Primes up to number below: 
   - 10,000: 0.13066s
