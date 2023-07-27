@@ -15,7 +15,7 @@ Python 3.10.11 Results - Primes up to number below:
   - 300,000: 45.96408s
   - 400,000: 77.85181s
   - 500,000: 117.88279s
-  - 1,000,000 - 420.26595s
+  - 1,000,000: 420.26595s
 
 
 Table of Arbitray Things:
